@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Godot Engine
 - 🇨🇭 I'm from Switzerland
 
-### Elsewhere on the web
+### Retrieve me on:
 
-- 🎮 https://gwyrin.itch.io/
+- 🎮 (Itch.io)[https://gwyrin.itch.io/] 
 
