@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 ### Retrieve me on:
 
-- 🎮 (Itch.io)[https://gwyrin.itch.io/] 
+- 🎮 [https://gwyrin.itch.io/](Itch.io)
 
