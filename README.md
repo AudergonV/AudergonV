@@ -5,12 +5,3 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on a video game
-- 🌱 I’m currently learning Godot Engine
-- 🇨🇭 I'm from Switzerland
-
-### Find me on:
-
-- 🎮 [Itch.io](https://gwyrin.itch.io/)
-
