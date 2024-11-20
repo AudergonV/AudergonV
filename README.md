@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Japanese.
+- 📫 How to reach me: [vincent@audergon.dev](mailto:vincent@audergon.dev).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I started programming at 12.
+
+- 🗣️ I speak
+  - ⭐⭐⭐⭐⭐  French
+  - ⭐⭐⭐⭐★  English
+  - ⭐⭐⭐★★  German
+  - ⭐★★★★  Japanese
+
